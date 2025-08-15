@@ -1,0 +1,19 @@
+{
+  "name": "mochatest",
+  "version": "1.0.0",
+  "description": "test fw mocha",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha \"test/**/*.js\""
+  },
+  "keywords": [
+    "mocha",
+    "javascript"
+  ],
+  "author": "Bruno Carlos",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.2.1",
+    "mocha": "^11.7.1"
+  }
+}
